@@ -33,4 +33,6 @@ body {
     .product-item  {
         margin-bottom: 32px;
     }
+  .products {
+        grid-template-columns: repeat(1, 70%);
 }
